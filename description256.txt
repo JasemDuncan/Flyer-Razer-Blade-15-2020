@@ -1,0 +1,23 @@
+REMATO MacbookPro 15" i7 2.2 GHz, 16GB RAM DDR4, 256GB SSD, GPU Radeon Pro 555X Precio 7299 soles
+
+Estado 10/10
+102 ciclos de carga.
+
+Intel Core i7 de seis núcleos a 2,2 GHz (Turbo Boost de hasta 4,1 GHz) y 9 MB de caché
+SSD de 256 GB, 16 GB de memoria DDR4 integrada a 2.400 MHz, Radeon Pro 555X con 
+4 GB de memoria GDDR5 y cambio automático de procesador gráfico Intel UHD Graphics 
+630, Touch Bar con sensor Touch ID integrado.
+
+Pantalla Retina
+Pantalla retroiluminada por LED de 15,4 pulgadas (en diagonal) con tecnología IPS; resolución nativa de 2.880 por 1.800 a 220 píxeles por pulgada compatible con millones de colores
+Resoluciones adaptadas compatibles:
+1.920 por 1.200
+1.680 por 1.050
+1.280 por 800
+1.024 por 640
+Brillo de 500 nits
+Gama cromática amplia (P3)
+Tecnología True Tone
+
+Link oficial:
+https://support.apple.com/kb/SP776?viewlocale=es_ES&locale=en_US
